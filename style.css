@@ -1,0 +1,110 @@
+body{
+  background-color: #f9f9f9;
+  font-family: 'Pacifico', cursive;
+
+}
+
+h1 {
+  font-size: 25px;
+  line-height: 1;
+  letter-spacing: 5px;
+  margin-left: -10;
+  margin-right: 50;
+
+}
+
+h2 {
+  font-size: 20px;
+  line-height: 1;
+
+}
+
+
+.container {
+  width: 530px;   /* This sets the width */
+  margin-left: 150;
+  margin-right: 150;
+  margin-bottom: 100;
+  margin-top: 100; /* This automatically sets left/right margins */
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2)
+}
+
+.img-circle {
+  border-radius: 50%;
+  margin-left: 150;
+  margin-right: 150;
+  margin-bottom: 100;
+  margin-top: 100;
+}
+.shadowed {
+  box-shadow: 5px 5px 3px black;
+}
+#leader {
+  border: 1px solid black;
+}
+
+.presentation{
+  margin-left: 150;
+  margin-right: 150;
+  background: #e0ffcd;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2)
+}
+
+.card {
+  background: #e0ffcd;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2)
+}
+
+.text-center {
+    text-align: center;
+}
+
+.list-inline li {
+    display: inline-block;
+    padding: 20px;
+}
+.list-inline {
+  padding-left: 0px;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+ul, menu, dir {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.text-center {
+    text-align: center;
+}
+
+.alimentation_table {
+  background: #e0ffcd;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.2)
+}
+
+
+td,th {
+  text-align: center;
+}
+
